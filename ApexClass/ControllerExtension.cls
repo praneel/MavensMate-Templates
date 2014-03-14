@@ -1,3 +1,11 @@
+/*****************************************************************************************
+    Name    : Rforce_Class
+    Desc    : This is ... 
+    Approach:
+    Project : Rforce 
+               
+******************************************************************************************/
+
 public with sharing class {{ api_name }} {
 
 	private final sObject mysObject;
